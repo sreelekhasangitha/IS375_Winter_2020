@@ -1,0 +1,10 @@
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.exe
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.deps.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.runtimeconfig.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.runtimeconfig.dev.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.dll
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.pdb
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\QueueClass\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.AssemblyInfoInputs.cache
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\QueueClass\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.AssemblyInfo.cs
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\QueueClass\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.dll
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\QueueClass\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.pdb

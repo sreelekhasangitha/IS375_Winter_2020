@@ -1,0 +1,10 @@
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.exe
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.deps.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.dev.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.dll
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTable.pdb
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.dll
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.pdb

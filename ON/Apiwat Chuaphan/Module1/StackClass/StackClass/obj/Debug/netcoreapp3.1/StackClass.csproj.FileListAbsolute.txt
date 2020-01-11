@@ -1,0 +1,11 @@
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.exe
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.deps.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.runtimeconfig.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.runtimeconfig.dev.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.dll
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\StackClass\StackClass\bin\Debug\netcoreapp3.1\StackClass.pdb
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\StackClass\StackClass\obj\Debug\netcoreapp3.1\StackClass.csprojAssemblyReference.cache
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\StackClass\StackClass\obj\Debug\netcoreapp3.1\StackClass.AssemblyInfoInputs.cache
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\StackClass\StackClass\obj\Debug\netcoreapp3.1\StackClass.AssemblyInfo.cs
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\StackClass\StackClass\obj\Debug\netcoreapp3.1\StackClass.dll
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\StackClass\StackClass\obj\Debug\netcoreapp3.1\StackClass.pdb

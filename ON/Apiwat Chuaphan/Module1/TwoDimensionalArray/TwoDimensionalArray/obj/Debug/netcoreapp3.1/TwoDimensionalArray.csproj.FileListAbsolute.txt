@@ -1,0 +1,11 @@
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.exe
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.deps.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.runtimeconfig.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.runtimeconfig.dev.json
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.dll
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.pdb
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.csprojAssemblyReference.cache
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.AssemblyInfo.cs
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.dll
+C:\Users\WATNEY\Desktop\IS375_Winter_2020\Module1\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.pdb
